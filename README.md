@@ -1,3 +1,3 @@
 # hello-world
 just testing
-I'm interested in learning to code and making fun open source software through video games.
+I'm interested in learning to code and in how to make fun open source software via video games.
